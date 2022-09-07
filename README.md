@@ -7,7 +7,7 @@
 [![Buy me a Coffe](https://img.shields.io/badge/-Become%20A%20very%20cool%20Dude%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://www.buymeacoffee.com/mackarevic)
 
 
-## I'm 16 and a Backend dev!
+## I'm a 16 year old Backend dev!
 
 - 🌱 I’m currently learning Android/Kotlin
 - 👯 I’m looking for friends
