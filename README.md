@@ -7,12 +7,11 @@
 [![Buy me a Coffe](https://img.shields.io/badge/-Become%20A%20very%20cool%20Dude%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://www.buymeacoffee.com/mackarevic)
 
 
-## I'm a 18 year old Backend dev!
+## I'm a 18 year old Android dev!
 
 - 🌱 I’m currently learning Android/Kotlin
-- 👯 I’m looking for friends
-- 🥅 2022 Goals: find some friends
-- ⚡ Fun fact: I was the youngest employee at 1&1
+- 🥅 2024 Goals: Clean up my Github page and deploy/finish my fav projects
+
 
 
 ### Languages and Tools:
